@@ -22,8 +22,7 @@
         android:layout_height="120dp"
         android:background="#37306B"
         app:layout_constraintTop_toBottomOf="@+id/view1"
-        app:layout_constraintStart_toStartOf="@+id/view1"
-        app:/>
+        app:layout_constraintStart_toStartOf="@+id/view1" />
 
 <!--    <View-->
 <!--        android:layout_width="120dp"-->
